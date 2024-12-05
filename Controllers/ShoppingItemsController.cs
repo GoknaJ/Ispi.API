@@ -1,5 +1,5 @@
 ﻿using Ispi.API.Data;
-using Ispi.API.Entity;
+using Ispi.API.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

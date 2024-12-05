@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Ispi.API.Entity;
+namespace Ispi.API.Entities;
 
 public class ShoppingItem
 {
