@@ -1,0 +1,6 @@
+@Ispi.API_HostAddress = http://localhost:5073
+
+GET {{Ispi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
