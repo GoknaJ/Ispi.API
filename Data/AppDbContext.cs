@@ -1,4 +1,4 @@
-﻿using Ispi.API.Entity;
+﻿using Ispi.API.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Ispi.API.Data;
